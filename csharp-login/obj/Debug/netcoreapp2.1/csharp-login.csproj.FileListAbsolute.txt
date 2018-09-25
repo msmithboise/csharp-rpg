@@ -1,0 +1,11 @@
+/Users/msmith/source/codeworks/csharp-login/bin/Debug/netcoreapp2.1/csharp-login.deps.json
+/Users/msmith/source/codeworks/csharp-login/bin/Debug/netcoreapp2.1/csharp-login.runtimeconfig.json
+/Users/msmith/source/codeworks/csharp-login/bin/Debug/netcoreapp2.1/csharp-login.runtimeconfig.dev.json
+/Users/msmith/source/codeworks/csharp-login/bin/Debug/netcoreapp2.1/csharp-login.dll
+/Users/msmith/source/codeworks/csharp-login/bin/Debug/netcoreapp2.1/csharp-login.pdb
+/Users/msmith/source/codeworks/csharp-login/obj/Debug/netcoreapp2.1/csharp-login.csprojAssemblyReference.cache
+/Users/msmith/source/codeworks/csharp-login/obj/Debug/netcoreapp2.1/csharp-login.csproj.CoreCompileInputs.cache
+/Users/msmith/source/codeworks/csharp-login/obj/Debug/netcoreapp2.1/csharp-login.AssemblyInfoInputs.cache
+/Users/msmith/source/codeworks/csharp-login/obj/Debug/netcoreapp2.1/csharp-login.AssemblyInfo.cs
+/Users/msmith/source/codeworks/csharp-login/obj/Debug/netcoreapp2.1/csharp-login.dll
+/Users/msmith/source/codeworks/csharp-login/obj/Debug/netcoreapp2.1/csharp-login.pdb
