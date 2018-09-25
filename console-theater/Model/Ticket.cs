@@ -13,6 +13,7 @@ namespace console_theater.Models
 
         public decimal Price { get; set; }
         private string Type { get; set; }
+        string IPurchasable.Type { get; set; }
 
 
         // Constructor 
